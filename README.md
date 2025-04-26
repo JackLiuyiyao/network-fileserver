@@ -28,5 +28,3 @@ It uses Boost shared mutexes for fine-grained locking, C++ sockets for network c
 > 📌 **Main execution starts at `main()` inside `fs_server.cpp`.**
 > 
 > 📌 **Request handling logic is in `handle_connection(int connectionfd)`.**
-
-## 🛤️ Project Structure
